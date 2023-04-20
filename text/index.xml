@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Texts on CVC site</title><link>/text/</link><description>Recent content in Texts on CVC site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/text/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/text/introduction/</link><pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate><guid>/text/introduction/</guid><description>Добро пожаловать в Лабораторию обработки изображений и видео (LIVE) Техасского университета в Остине . LIVE управляется профессором Аланом С. Бовиком , расположенным в здании Инженерно-образовательного исследовательского центра (EER) UT, и является частью факультета электротехники и вычислительной техники Техасского университета в Остине. Он входит в группу Wireless Networking and Communications Group (WNCG).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texts on CVC site</title>
+    <link>/text.html</link>
+    <description>Recent content in Texts on CVC site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/text/introduction.html</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/text/introduction.html</guid>
+      <description>Добро пожаловать в Лабораторию обработки изображений и видео (LIVE) Техасского университета в Остине . LIVE управляется профессором Аланом С. Бовиком , расположенным в здании Инженерно-образовательного исследовательского центра (EER) UT, и является частью факультета электротехники и вычислительной техники Техасского университета в Остине. Он входит в группу Wireless Networking and Communications Group (WNCG).</description>
+    </item>
+    
+  </channel>
+</rss>
